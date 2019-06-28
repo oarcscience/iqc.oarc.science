@@ -38,19 +38,10 @@
 				</div>
 
 				<div class="contact">
-					<address>
-						<a href="https://www.google.com/maps/place/{{ site.data.company.address | url_encode }}">
-							{% include icons/footer.html icon="place" %} {{ site.data.company.address }}
-						</a>
-					</address>
+					<p>{{ site.data.company.thanks }}</p>
 					<p class="email">
 						<a href="mailto:{{ site.data.company.email }}">
 							{% include icons/footer.html icon="email" %} {{ site.data.company.email }}
-						</a>
-					</p>
-					<p class="phone">
-						<a href="tel:{{ site.data.company.phone | replace: ' ', '-' }}">
-							{% include icons/footer.html icon="phone" %} {{ site.data.company.phone }}
 						</a>
 					</p>
 					<p>Дызайн — <a href="https://cloudcannon.com/">«Воблачная гармата»</a>
@@ -58,7 +49,6 @@
 				</div>
 
 				<div class="about">
-					<p>{{ site.data.company.thanks }}</p>
 					<p>{{ site.data.company.pub }}</p>
 				</div>
 			</div>
