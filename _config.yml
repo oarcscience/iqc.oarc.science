@@ -73,3 +73,18 @@ _options:
   newsletter_background_image:
     width: 1880
     height: 1880
+    
+    
+monthsbel:
+  January: "студзеня"
+  February: "лютага"
+  March: "сакавіка"
+  April: "красавіка"
+  May: "траўня"
+  June: "чэрвеня"
+  July: "ліпеня"
+  August: "жніўня"
+  September: "верасня"
+  October: "красавіка"
+  November: "лістапада"
+  December: "снежня"  
