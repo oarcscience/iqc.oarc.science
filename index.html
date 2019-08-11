@@ -81,7 +81,7 @@ published: true
 				<div class="post">
 					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
 					<div class="post-content">
-						<p class="date">{{ post.date }} {{ post.date.Y }} {{ site.months[%b] '%Y' }}</p>
+						<p class="date">{{ post.date | date: "%d" }} {{ site.monthsbel[ post.date | date: "%D" ] }} {{ post.date | date: "%Y" }}</p>
 						<h3><a href="https://{{ post.link }}.dyskurs.be" target="_blank">{{ post.title }}</a></h3>
 						<h4>{{ post.link }}.dyskurs.be</h4>
 
