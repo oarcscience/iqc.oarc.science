@@ -1,14 +1,14 @@
 # ----
 # Site
 
-title: Дыскурс беларускасці
-url: https://dyskurs.be
+title: Institute for Biblical Content
+url: https://ibc.oarc.science
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Платформа папулярызацыі беларускага змесціва.
+description: A Bible society adhering to Open Access values
 author:
   name:
   email:
