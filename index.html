@@ -58,7 +58,7 @@ title: Institute for Biblical Content
 <div class="container">
 	<hr>
 	<blockquote>
-		<p class="quote editable">I have always militated for the Bible and educational content being Openly Accessible in national languages. "So that every ordinary person and a citizen, through reading or listening, could understand what is needed for his spiritual fulfillment.<br>(1517)"</p>
+		<p class="quote editable">I have always militated for the Bible and educational content being Openly Accessible in national languages. "So that every ordinary person and a citizen, through reading or listening, could understand what is needed for his spiritual fulfillment."<br><span style="color:#bbb">(1517)</span></p>
 		<div class="attribute">
 			<p class="meta">
 				<span class="image"><img class="editable" src="{{ site.baseurl }}/images/franak.jpg" alt="Wooly"></span>
@@ -77,7 +77,7 @@ title: Institute for Biblical Content
 			<p class="editable">The Institute for Biblical Content is an international consortium of specialists in ancient and modern linguistics, religious studies, archeology and textual criticism. Originally refered to as « Summer Institute of Biblical Studies », the Institute has been held as a scientific summer school since the mid 1990s in different locations around the world. The formalization as a stable entity took place in 2003 and the Open Access orientation has been articulated since 2012.</p>
 			<p class="editable">Our activities span worldwide and we engage specialists affiliated with scientific institutions	in France, Iran, Australia, Tajikistan, Belarus, Indonesia. The Institute is headquartered in Paris (France).</p>
 			<p class="editable">The content produced within the scope of our activities is multilingual in nature. Content referents of individual projects and conditions of use are indicated on the pages of the respective projects.</p>
-			<p class="editable">The Institute acts as a <a href="https://fr.wikipedia.org/wiki/Groupement_d%27int%C3%A9r%C3%AAt_scientifique" style="color: ubset;text-decoration: none;">scientific interest group</a> with regard to the French nomenclature, and as such we do not receive any funding from denominational, or non-, organizations. However, the French Governmental Services may sporadically contribute to the work of the Institute through a funding grant distributed by the French Development Agency, notably within one of their <a href="https://www.afd.fr/en/page-thematique-axe/digital-innovation"  style="color: ubset;text-decoration: none;">Open Access</a> actions.</p>
+			<p class="editable">The Institute acts as a <a href="https://fr.wikipedia.org/wiki/Groupement_d%27int%C3%A9r%C3%AAt_scientifique" style="color: unset;text-decoration: none;">scientific interest group</a> with regard to the French nomenclature, and as such we do not receive any funding from denominational, or non-, organizations. However, the French Governmental Services may sporadically contribute to the work of the Institute through a funding grant distributed by the French Development Agency, notably within one of their <a href="https://www.afd.fr/en/page-thematique-axe/digital-innovation"  style="color: unset;text-decoration: none;">Open Access</a> actions.</p>
 
 		</div>
 	</div>
@@ -98,9 +98,9 @@ title: Institute for Biblical Content
 				<div class="post">
 					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
 					<div class="post-content">
-						<p class="date">{{ post.date | date: "%d" }} {% assign m = post.date | date: "%B" %} {{ <!--site.monthsbel[m]--> m }} {{ post.date | date: "%Y" }}</p>
-						<h3><a href="https://{{ post.link }}.dyskurs.be" target="_blank">{{ post.title }}</a></h3>
-						<h4>{{ post.link }}.dyskurs.be</h4>
+						<p class="date">{{ post.date | date: "%d" }} {% assign m = post.date | date: "%B" %} <!--{{ site.monthsbel[m] }}--> {{ m }} {{ post.date | date: "%Y" }}</p>
+						<h3><a href="https://{{ post.link }}" target="_blank">{{ post.title }}</a></h3>
+						<h4>{{ post.link }}</h4>
 
 						{{ post.content }}
 						
