@@ -4,5 +4,15 @@ description: A Bible society adhering to Open Access values
 
 
 assets:
-    - name: sdfbj
-    - name: eeeeesdfiub
+    - name: Library Paracalypsis
+      url:  paracalypsis.oarc.science
+      description: Library of ancient texts, ancient Christian writers, Judeo-Christians.
+    - name: Multilingual Bible Reader
+      url:  read.ibc.oarc.science
+      description: This engine hosts several Open Access Bible translations.
+
+
+
+
+
+
