@@ -647,7 +647,7 @@
 					<div class="row">
 
 {% for asset in site.assets %}
-						<div class="col-sm-6 w200 lead"><h2>{{asset}}</h2><div><a aria-controls="home-dive-in" aria-expanded="false" class="btn btn-default trend_sans_oneregular" data-parent="#home-middle-accordion" data-toggle="collapse" href="#home-dive-in" role="button">{{asset.url}}&nbsp;<i class="icon-guage"></i></a></div><div>{{assets.description}}</div></div>
+						<div class="col-sm-6 w200 lead"><h2>{{asset.name}}</h2><div><a aria-controls="home-dive-in" aria-expanded="false" class="btn btn-default trend_sans_oneregular" data-parent="#home-middle-accordion" data-toggle="collapse" href="#home-dive-in" role="button">{{asset.url}}&nbsp;<i class="icon-guage"></i></a></div><div>{{assets.description}}</div></div>
 {% endfor %}
 
 						<div class="col-sm-10 ">
