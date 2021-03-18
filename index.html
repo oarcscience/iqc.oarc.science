@@ -647,11 +647,11 @@
 					<div class="row">
 
 {% for asset in site.assets %}
-						<div class="col-sm-6 w200 lead"><div class="w200 h3">{{asset.name}}</div><div></div><div>{{asset.description}}</div>
+						<div class="col-sm-6 w200 lead"><div class="w200 h3">{{asset.name}}</div><div></div>
 
 
 						<div class="col-sm-8 ">
-							<p class="w200 lead marbottom-0"> A Bible society adhering to Open Access principles, a consortium of specialists in linguistics, religious studies, archeology and textual criticism.</p>
+							<p class="w200 lead marbottom-0">{{asset.description}}</p>
 						</div>
 
 						<div class="col-sm-4 text-center dash-left dash-right"><i class="h3 icon-glasses"></i><br><a aria-controls="home-read-more" class="read-more" data-parent="#home-middle-accordion" data-toggle="collapse" href="{{asset.url}}" role="button">{{asset.url}}</a></div>
