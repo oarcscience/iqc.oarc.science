@@ -7,12 +7,12 @@ assets:
     - name: Library Paracalypsis
       url:  paracalypsis.oarc.science
       buttonp1: Paracalypsis
-      buttonp2: oarc.science
+      buttonp2: .oarc.science
       description: Library of ancient texts, ancient Christian writers, Judeo-Christians.
       github: github.com/paracalypsis.oarc.science
     - name: Multilingual Bible Reader
       url:  read.ibc.oarc.science
       buttonp1: Read · IBC
-      buttonp2: oarc.science
+      buttonp2: .oarc.science
       description: This engine hosts several Open Access Bible translations.
       github: github.com/oarcscience/read.ibc.oarc.science
