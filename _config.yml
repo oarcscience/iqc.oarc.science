@@ -16,3 +16,9 @@ assets:
       buttonp2: .oarc.science
       description: This engine hosts several Open Access Bible translations.
       github: github.com/oarcscience/read.ibc.oarc.science
+    - name: Intangible Textual Heritage
+      url:  ith.oarc.science
+      buttonp1: Ith
+      buttonp2: .oarc.science
+      description: Intangible Textual Heritage is an Open Access archive of quintessential texts of our civilization. IBC contributes to its Christian and Judeo-Christian sections.
+      github: github.com/oarcscience/ith.oarc.science
