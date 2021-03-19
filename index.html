@@ -19,7 +19,7 @@
 </head>
 
 <body class="html front not-logged-in no-sidebars page-node default-interior default-interior default-interior">
-    <header role="banner" class="container-fluid sec-variant-midblue level-4">{% include nav.html %}
+    <header role="banner" class="container-fluid sec-variant-midblue level-4">{% include header.html %}
     </header>
 
     <main role="main" id="main-content">
@@ -703,7 +703,7 @@
             </div><!-- end container -->
         </div></main>
 
-    <footer role="contentinfo">
+<footer role="contentinfo" class="container-fluid sec-variant-midblue level-5">
           <div class="region region-floor">
     <div id="block-nodeblock-floor" class="block block-nodeblock container-fluid sec-variant-midgrey seethru level-4">
   <div class="content">
@@ -747,6 +747,29 @@
   </div>
 </div>
   </div>
+<nav role="navigation" class="navbar navbar-quartz">
+        <div class="container"><!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header text-center">
+                <button aria-expanded="false" class="navbar-toggle collapsed w500" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button">
+                    <span class="sr-only">Toggle navigation</span> MENU <span class="fa fa-caret-down"></span>
+                </button>
+                <a class="navbar-brand trend_sans_oneregular" href="#">IBC&nbsp;·<span class="element-invisible">&nbsp;</span>OARC<span style="font-size:10px;">.science</span></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav"></ul>
+                <ul class="nav navbar-nav navbar-right">
+                <li class="expanded dropdown"><a href="#actions" data-toggle="collapse" aria-expanded="true">Actions <span class="caret"></span></a></li>
+<li class="expanded dropdown"><a href="#entity" data-target="#entity" data-toggle="dropdown">Entity <span class="caret"></span></a></li>
+<li class="last expanded dropdown"><a href="#assets" data-target="#assets" data-toggle="dropdown">Assets <span class="caret"></span></a></li>
+                    <li><a href="">FAQs</a></li>
+                    <li><a data-toggle="modal" href="#feedback-form">Feedback</a></li>
+                                            <li><a href="">Login <i class="fa fa-sign-in"></i></a></li>
+                                    </ul>
+            </div>
+        <!-- /.navbar-collapse --></div>
+    </nav>
     </footer>
 
     <div class="modal fade" id="feedback-form" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
