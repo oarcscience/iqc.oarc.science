@@ -6062,6 +6062,7 @@ fieldset[disabled] .sec-variant-midblue.level-5.seethru .btn-default.active {
 }
 .sec-variant-midblue.level-5 a {
   color: #c2deff;
+  background: #060e14;
 }
 .sec-variant-midblue.level-5 a.underlined {
   text-decoration: none;
