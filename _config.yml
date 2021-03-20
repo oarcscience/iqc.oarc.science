@@ -18,7 +18,7 @@ assets:
       github: github.com/oarcscience/read.ibc.oarc.science
     - name: Intangible Textual Heritage
       url:  ith.oarc.science
-      buttonp1: Ith
-      buttonp2: .oarc.science
+      buttonp1: Intangible
+      buttonp2: Textual Heritage<br>.oarc.science
       description: Intangible Textual Heritage is an Open Access archive of quintessential texts of our civilization. IBC contributes to its Christian and Judeo-Christian sections.
       github: github.com/oarcscience/ith.oarc.science
