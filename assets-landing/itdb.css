@@ -1535,8 +1535,8 @@ address {
 }
 @font-face {
   font-family: 'Trend Sans One';
-  src: url("//db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.eot");
-  src: url("//db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.woff") format("woff"), url("//db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/83e4a6b639612cd501853be5a7cf97ab.svg#Trend Sans One") format("svg");
+  src: url("/assets-landing/fonts/TrendSansOne/TrendSansOne.eot");
+  src: url("/assets-landing/fonts/TrendSansOne/TrendSansOne.eot?#iefix") format("embedded-opentype"), url("/assets-landing/fonts/TrendSansOne/TrendSansOne.woff2") format("woff2"), url("/assets-landing/fonts/TrendSansOne/TrendSansOne.woff") format("woff"), url("/assets-landing/fonts/TrendSansOne/TrendSansOne.ttf") format("truetype"), url("/assets-landing/fonts/TrendSansOne/TrendSansOne.svg#Trend Sans One") format("svg");
   font-weight: normal;
   font-style: normal;
 }
