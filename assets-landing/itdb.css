@@ -21424,7 +21424,7 @@ button.list-group-item-danger.active:focus {
   padding: 0px;
 }
 .main-bg {
-  background: url(img/home-graphics/bgs/dial3.png) no-repeat center center fixed;
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23430,7 +23430,7 @@ body.page-node-draft::before {
  *
  ******************************************************************************/
 body.splash {
-  background: #1E4664 url(img/home-graphics/bgs/dial3.png) no-repeat center center fixed;
+  background: #1E4664;
   color: #FFF;
 }
 body.splash a {
