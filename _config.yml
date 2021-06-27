@@ -22,3 +22,9 @@ assets:
       buttonp2: Textual Heritage<br>ith.oarc.science
       description: Intangible Textual Heritage is an Open Access archive of quintessential texts of our civilization. IBC contributes to its Christian and Judeo-Christian sections.
       github: github.com/oarcscience/ith.oarc.science
+    - name: Curated directory of Biblical Content
+      url:  ibc.oarc.science/directory
+      buttonp1: Expert
+      buttonp2: Resources on<br>Biblical Studies
+      description: "A curated directory of expert resources on different topics of Biblical Studies: Early Judaism, Early Christianity, Textual Criticism and Linguistics, Theory and Reception."
+      github: 
