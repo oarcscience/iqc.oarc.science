@@ -1,30 +1,18 @@
-title: Institute for Qur’anic Content
+title: Institute for Quranic Content
 url: https://IQC.oarc.science
-description: A Qur’anic society adhering to Open Access values
+description: A Quranic society adhering to Open Access values
 
 
 assets:
-    - name: Library Paracalypsis
-      url:  paracalypsis.oarc.science
-      buttonp1: Paracalypsis
+    - name: Multilingual Quran Reader
+      url:  read.iqc.oarc.science
+      buttonp1: Read · iqc
       buttonp2: .oarc.science
-      description: Library of ancient texts, ancient Christian writers, Judeo-Christians.
-      github: github.com/paracalypsis.oarc.science
-    - name: Multilingual Qur’an Reader
-      url:  read.IQC.oarc.science
-      buttonp1: Read · IQC
-      buttonp2: .oarc.science
-      description: This engine hosts several Open Access Qur’an translations.
-      github: github.com/oarcscience/read.IQC.oarc.science
+      description: This engine hosts several Open Access Quran translations.
+      github: github.com/oarcscience/read.iqc.oarc.science
     - name: Intangible Textual Heritage
       url:  ith.oarc.science
       buttonp1: Intangible
       buttonp2: Textual Heritage<br>ith.oarc.science
       description: Intangible Textual Heritage is an Open Access archive of quintessential texts of our civilization. IQC contributes to its Christian and Judeo-Christian sections.
       github: github.com/oarcscience/ith.oarc.science
-    - name: Curated directory of Qur’anic Content
-      url:  IQC.oarc.science/directory
-      buttonp1: Expert
-      buttonp2: Resources on<br>Qur’anic Studies
-      description: "A curated directory of expert resources on different topics of Qur’anic Studies: Early Judaism, Early Christianity, Textual Criticism and Linguistics, Theory and Reception."
-      github: 
