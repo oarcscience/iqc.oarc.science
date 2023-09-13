@@ -5124,15 +5124,15 @@ fieldset[disabled] .sec-variant-darkblue.level-6 .btn-default.active {
   color: #ffffff;
 }
 .sec-variant-midblue a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-midblue a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dashed;
+  border-bottom: 1px #fff2c2 dashed;
 }
 .sec-variant-midblue .btn-default {
   color: #357cb1;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -5190,11 +5190,11 @@ fieldset[disabled] .sec-variant-midblue .btn-default:active,
 .sec-variant-midblue .btn-default.disabled.active,
 .sec-variant-midblue .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #357cb1;
 }
 .sec-variant-midblue.seethru {
@@ -5245,15 +5245,15 @@ fieldset[disabled] .sec-variant-midblue .btn-default.active {
   color: #ffffff;
 }
 .sec-variant-midblue.level-0 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-midblue.level-0 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dashed;
+  border-bottom: 1px #fff2c2 dashed;
 }
 .sec-variant-midblue.level-0 .btn-default {
   color: #357cb1;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -5311,11 +5311,11 @@ fieldset[disabled] .sec-variant-midblue.level-0 .btn-default:active,
 .sec-variant-midblue.level-0 .btn-default.disabled.active,
 .sec-variant-midblue.level-0 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-0 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-0 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #357cb1;
 }
 .sec-variant-midblue.level-0 hr.style-three {
@@ -5366,15 +5366,15 @@ fieldset[disabled] .sec-variant-midblue.level-0 .btn-default.active {
   background-color: rgba(47, 110, 157, 0.75);
 }
 .sec-variant-midblue.level-1 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-midblue.level-1 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-midblue.level-1 .btn-default {
   color: #2f6e9d;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -5432,11 +5432,11 @@ fieldset[disabled] .sec-variant-midblue.level-1 .btn-default:active,
 .sec-variant-midblue.level-1 .btn-default.disabled.active,
 .sec-variant-midblue.level-1 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-1 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-1 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #2f6e9d;
 }
 .sec-variant-midblue.level-1 hr.style-three {
@@ -5490,15 +5490,15 @@ fieldset[disabled] .sec-variant-midblue.level-1 .btn-default.active {
   background-color: rgba(18, 42, 59, 0.5625);
 }
 .sec-variant-midblue.level-2 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-midblue.level-2 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-midblue.level-2 .btn-default {
   color: #29618a;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -5556,11 +5556,11 @@ fieldset[disabled] .sec-variant-midblue.level-2 .btn-default:active,
 .sec-variant-midblue.level-2 .btn-default.disabled.active,
 .sec-variant-midblue.level-2 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-2 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-2 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #29618a;
 }
 .sec-variant-midblue.level-2 hr.style-three {
@@ -5605,7 +5605,7 @@ fieldset[disabled] .sec-variant-midblue.level-2 .btn-default.active {
 }
 .sec-variant-midblue.level-3 {
   color: #ffffff;
-  background-color: #20631d;
+  background-color: #745922;
 }
 .sec-variant-midblue.level-3.seethru {
   background-color: rgba(29, 69, 99, 0.75);
@@ -5615,11 +5615,11 @@ fieldset[disabled] .sec-variant-midblue.level-2 .btn-default.active {
 }
 .sec-variant-midblue.level-3.seethru a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-midblue.level-3.seethru .btn-default {
   color: #ffffff;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -5677,41 +5677,41 @@ fieldset[disabled] .sec-variant-midblue.level-3.seethru .btn-default:active,
 .sec-variant-midblue.level-3.seethru .btn-default.disabled.active,
 .sec-variant-midblue.level-3.seethru .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-3.seethru .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-3.seethru .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #ffffff;
 }
 .sec-variant-midblue.level-3 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-midblue.level-3 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-midblue.level-3 .btn-default {
-  color: #20631d;
-  background-color: #c2deff;
+  color: #745922;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
 .sec-variant-midblue.level-3 .btn-default:focus,
 .sec-variant-midblue.level-3 .btn-default.focus {
-  color: #20631d;
+  color: #745922;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-3 .btn-default:hover {
-  color: #20631d;
+  color: #745922;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-3 .btn-default:active,
 .sec-variant-midblue.level-3 .btn-default.active,
 .open > .dropdown-toggle.sec-variant-midblue.level-3 .btn-default {
-  color: #20631d;
+  color: #745922;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -5724,7 +5724,7 @@ fieldset[disabled] .sec-variant-midblue.level-3.seethru .btn-default.active {
 .sec-variant-midblue.level-3 .btn-default:active.focus,
 .sec-variant-midblue.level-3 .btn-default.active.focus,
 .open > .dropdown-toggle.sec-variant-midblue.level-3 .btn-default.focus {
-  color: #20631d;
+  color: #745922;
   background-color: #6bafff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -5751,12 +5751,12 @@ fieldset[disabled] .sec-variant-midblue.level-3 .btn-default:active,
 .sec-variant-midblue.level-3 .btn-default.disabled.active,
 .sec-variant-midblue.level-3 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-3 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-3 .btn-default .badge {
-  color: #c2deff;
-  background-color: #20631d;
+  color: #fff2c2;
+  background-color: #745922;
 }
 .sec-variant-midblue.level-3 hr.style-three {
   border: 0;
@@ -5807,7 +5807,7 @@ fieldset[disabled] .sec-variant-midblue.level-3 .btn-default.active {
 }
 .sec-variant-midblue.level-4.seethru .btn-default {
   color: #ffffff;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -5865,23 +5865,23 @@ fieldset[disabled] .sec-variant-midblue.level-4.seethru .btn-default:active,
 .sec-variant-midblue.level-4.seethru .btn-default.disabled.active,
 .sec-variant-midblue.level-4.seethru .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-4.seethru .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-4.seethru .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #ffffff;
 }
 .sec-variant-midblue.level-4 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-midblue.level-4 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-midblue.level-4 .btn-default {
   color: #143b12;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -5939,11 +5939,11 @@ fieldset[disabled] .sec-variant-midblue.level-4 .btn-default:active,
 .sec-variant-midblue.level-4 .btn-default.disabled.active,
 .sec-variant-midblue.level-4 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-4 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-4 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #143b12;
 }
 .sec-variant-midblue.level-4 hr.style-three {
@@ -5988,14 +5988,14 @@ fieldset[disabled] .sec-variant-midblue.level-4 .btn-default.active {
 }
 .sec-variant-midblue.level-5 {
   color: #ffffff;
-  background-color: #071406;
+  background-color: #260c28;
 }
 .sec-variant-midblue.level-5.seethru {
   background-color: rgba(6, 14, 20, 0.75);
 }
 .sec-variant-midblue.level-5.seethru .btn-default {
   color: #ffffff;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -6053,42 +6053,42 @@ fieldset[disabled] .sec-variant-midblue.level-5.seethru .btn-default:active,
 .sec-variant-midblue.level-5.seethru .btn-default.disabled.active,
 .sec-variant-midblue.level-5.seethru .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-5.seethru .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-5.seethru .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #ffffff;
 }
 .sec-variant-midblue.level-5 a {
-  color: #c2deff;
-  background: #071406;
+  color: #fff2c2;
+  background: #260c28;
 }
 .sec-variant-midblue.level-5 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-midblue.level-5 .btn-default {
-  color: #071406;
-  background-color: #c2deff;
+  color: #260c28;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
 .sec-variant-midblue.level-5 .btn-default:focus,
 .sec-variant-midblue.level-5 .btn-default.focus {
-  color: #071406;
+  color: #260c28;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-5 .btn-default:hover {
-  color: #071406;
+  color: #260c28;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-5 .btn-default:active,
 .sec-variant-midblue.level-5 .btn-default.active,
 .open > .dropdown-toggle.sec-variant-midblue.level-5 .btn-default {
-  color: #071406;
+  color: #260c28;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -6101,7 +6101,7 @@ fieldset[disabled] .sec-variant-midblue.level-5.seethru .btn-default.active {
 .sec-variant-midblue.level-5 .btn-default:active.focus,
 .sec-variant-midblue.level-5 .btn-default.active.focus,
 .open > .dropdown-toggle.sec-variant-midblue.level-5 .btn-default.focus {
-  color: #071406;
+  color: #260c28;
   background-color: #6bafff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -6128,12 +6128,12 @@ fieldset[disabled] .sec-variant-midblue.level-5 .btn-default:active,
 .sec-variant-midblue.level-5 .btn-default.disabled.active,
 .sec-variant-midblue.level-5 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-5 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-5 .btn-default .badge {
-  color: #c2deff;
-  background-color: #071406;
+  color: #fff2c2;
+  background-color: #260c28;
 }
 .sec-variant-midblue.level-5 hr.style-three {
   border: 0;
@@ -6183,15 +6183,15 @@ fieldset[disabled] .sec-variant-midblue.level-5 .btn-default.active {
   background-color: rgba(0, 0, 0, 0.75);
 }
 .sec-variant-midblue.level-6 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-midblue.level-6 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-midblue.level-6 .btn-default {
   color: #000000;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -6249,11 +6249,11 @@ fieldset[disabled] .sec-variant-midblue.level-6 .btn-default:active,
 .sec-variant-midblue.level-6 .btn-default.disabled.active,
 .sec-variant-midblue.level-6 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-midblue.level-6 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-midblue.level-6 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #000000;
 }
 .sec-variant-midblue.level-6 hr.style-three {
@@ -6301,15 +6301,15 @@ fieldset[disabled] .sec-variant-midblue.level-6 .btn-default.active {
   color: #ffffff;
 }
 .sec-variant-orange a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dashed;
+  border-bottom: 1px #fff2c2 dashed;
 }
 .sec-variant-orange .btn-default {
   color: #357cb1;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -6367,11 +6367,11 @@ fieldset[disabled] .sec-variant-orange .btn-default:active,
 .sec-variant-orange .btn-default.disabled.active,
 .sec-variant-orange .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #357cb1;
 }
 .sec-variant-orange.seethru {
@@ -6422,15 +6422,15 @@ fieldset[disabled] .sec-variant-orange .btn-default.active {
   color: #ffffff;
 }
 .sec-variant-orange.level-0 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange.level-0 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dashed;
+  border-bottom: 1px #fff2c2 dashed;
 }
 .sec-variant-orange.level-0 .btn-default {
   color: #357cb1;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -6488,11 +6488,11 @@ fieldset[disabled] .sec-variant-orange.level-0 .btn-default:active,
 .sec-variant-orange.level-0 .btn-default.disabled.active,
 .sec-variant-orange.level-0 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-0 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-0 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #357cb1;
 }
 .sec-variant-orange.level-0 hr.style-three {
@@ -6543,15 +6543,15 @@ fieldset[disabled] .sec-variant-orange.level-0 .btn-default.active {
   background-color: rgba(47, 110, 157, 0.75);
 }
 .sec-variant-orange.level-1 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange.level-1 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-orange.level-1 .btn-default {
   color: #2f6e9d;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -6609,11 +6609,11 @@ fieldset[disabled] .sec-variant-orange.level-1 .btn-default:active,
 .sec-variant-orange.level-1 .btn-default.disabled.active,
 .sec-variant-orange.level-1 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-1 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-1 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #2f6e9d;
 }
 .sec-variant-orange.level-1 hr.style-three {
@@ -6667,15 +6667,15 @@ fieldset[disabled] .sec-variant-orange.level-1 .btn-default.active {
   background-color: rgba(18, 42, 59, 0.5625);
 }
 .sec-variant-orange.level-2 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange.level-2 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-orange.level-2 .btn-default {
   color: #29618a;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -6733,11 +6733,11 @@ fieldset[disabled] .sec-variant-orange.level-2 .btn-default:active,
 .sec-variant-orange.level-2 .btn-default.disabled.active,
 .sec-variant-orange.level-2 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-2 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-2 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #29618a;
 }
 .sec-variant-orange.level-2 hr.style-three {
@@ -6782,7 +6782,7 @@ fieldset[disabled] .sec-variant-orange.level-2 .btn-default.active {
 }
 .sec-variant-orange.level-3 {
   color: #ffffff;
-  background-color: #20631d;
+  background-color: #745922;
 }
 .sec-variant-orange.level-3.seethru {
   background-color: rgba(29, 69, 99, 0.75);
@@ -6792,11 +6792,11 @@ fieldset[disabled] .sec-variant-orange.level-2 .btn-default.active {
 }
 .sec-variant-orange.level-3.seethru a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-orange.level-3.seethru .btn-default {
   color: #ffffff;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -6854,41 +6854,41 @@ fieldset[disabled] .sec-variant-orange.level-3.seethru .btn-default:active,
 .sec-variant-orange.level-3.seethru .btn-default.disabled.active,
 .sec-variant-orange.level-3.seethru .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-3.seethru .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-3.seethru .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #ffffff;
 }
 .sec-variant-orange.level-3 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange.level-3 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-orange.level-3 .btn-default {
-  color: #20631d;
-  background-color: #c2deff;
+  color: #745922;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
 .sec-variant-orange.level-3 .btn-default:focus,
 .sec-variant-orange.level-3 .btn-default.focus {
-  color: #20631d;
+  color: #745922;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-3 .btn-default:hover {
-  color: #20631d;
+  color: #745922;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-3 .btn-default:active,
 .sec-variant-orange.level-3 .btn-default.active,
 .open > .dropdown-toggle.sec-variant-orange.level-3 .btn-default {
-  color: #20631d;
+  color: #745922;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -6901,7 +6901,7 @@ fieldset[disabled] .sec-variant-orange.level-3.seethru .btn-default.active {
 .sec-variant-orange.level-3 .btn-default:active.focus,
 .sec-variant-orange.level-3 .btn-default.active.focus,
 .open > .dropdown-toggle.sec-variant-orange.level-3 .btn-default.focus {
-  color: #20631d;
+  color: #745922;
   background-color: #6bafff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -6928,12 +6928,12 @@ fieldset[disabled] .sec-variant-orange.level-3 .btn-default:active,
 .sec-variant-orange.level-3 .btn-default.disabled.active,
 .sec-variant-orange.level-3 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-3 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-3 .btn-default .badge {
-  color: #c2deff;
-  background-color: #20631d;
+  color: #fff2c2;
+  background-color: #745922;
 }
 .sec-variant-orange.level-3 hr.style-three {
   border: 0;
@@ -6984,7 +6984,7 @@ fieldset[disabled] .sec-variant-orange.level-3 .btn-default.active {
 }
 .sec-variant-orange.level-4.seethru .btn-default {
   color: #ffffff;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -7042,23 +7042,23 @@ fieldset[disabled] .sec-variant-orange.level-4.seethru .btn-default:active,
 .sec-variant-orange.level-4.seethru .btn-default.disabled.active,
 .sec-variant-orange.level-4.seethru .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-4.seethru .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-4.seethru .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #ffffff;
 }
 .sec-variant-orange.level-4 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange.level-4 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-orange.level-4 .btn-default {
   color: #143b12;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -7116,11 +7116,11 @@ fieldset[disabled] .sec-variant-orange.level-4 .btn-default:active,
 .sec-variant-orange.level-4 .btn-default.disabled.active,
 .sec-variant-orange.level-4 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-4 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-4 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #143b12;
 }
 .sec-variant-orange.level-4 hr.style-three {
@@ -7165,14 +7165,14 @@ fieldset[disabled] .sec-variant-orange.level-4 .btn-default.active {
 }
 .sec-variant-orange.level-5 {
   color: #ffffff;
-  background-color: #071406;
+  background-color: #260c28;
 }
 .sec-variant-orange.level-5.seethru {
   background-color: rgba(6, 14, 20, 0.75);
 }
 .sec-variant-orange.level-5.seethru .btn-default {
   color: #ffffff;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -7230,41 +7230,41 @@ fieldset[disabled] .sec-variant-orange.level-5.seethru .btn-default:active,
 .sec-variant-orange.level-5.seethru .btn-default.disabled.active,
 .sec-variant-orange.level-5.seethru .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-5.seethru .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-5.seethru .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #ffffff;
 }
 .sec-variant-orange.level-5 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange.level-5 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-orange.level-5 .btn-default {
-  color: #071406;
-  background-color: #c2deff;
+  color: #260c28;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
 .sec-variant-orange.level-5 .btn-default:focus,
 .sec-variant-orange.level-5 .btn-default.focus {
-  color: #071406;
+  color: #260c28;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-5 .btn-default:hover {
-  color: #071406;
+  color: #260c28;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-5 .btn-default:active,
 .sec-variant-orange.level-5 .btn-default.active,
 .open > .dropdown-toggle.sec-variant-orange.level-5 .btn-default {
-  color: #071406;
+  color: #260c28;
   background-color: #8fc2ff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -7277,7 +7277,7 @@ fieldset[disabled] .sec-variant-orange.level-5.seethru .btn-default.active {
 .sec-variant-orange.level-5 .btn-default:active.focus,
 .sec-variant-orange.level-5 .btn-default.active.focus,
 .open > .dropdown-toggle.sec-variant-orange.level-5 .btn-default.focus {
-  color: #071406;
+  color: #260c28;
   background-color: #6bafff;
   border-color: rgba(0, 0, 0, 0);
 }
@@ -7304,12 +7304,12 @@ fieldset[disabled] .sec-variant-orange.level-5 .btn-default:active,
 .sec-variant-orange.level-5 .btn-default.disabled.active,
 .sec-variant-orange.level-5 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-5 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-5 .btn-default .badge {
-  color: #c2deff;
-  background-color: #071406;
+  color: #fff2c2;
+  background-color: #260c28;
 }
 .sec-variant-orange.level-5 hr.style-three {
   border: 0;
@@ -7359,15 +7359,15 @@ fieldset[disabled] .sec-variant-orange.level-5 .btn-default.active {
   background-color: rgba(0, 0, 0, 0.75);
 }
 .sec-variant-orange.level-6 a {
-  color: #c2deff;
+  color: #fff2c2;
 }
 .sec-variant-orange.level-6 a.underlined {
   text-decoration: none;
-  border-bottom: 1px #c2deff dotted;
+  border-bottom: 1px #fff2c2 dotted;
 }
 .sec-variant-orange.level-6 .btn-default {
   color: #000000;
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
   border: none;
 }
@@ -7425,11 +7425,11 @@ fieldset[disabled] .sec-variant-orange.level-6 .btn-default:active,
 .sec-variant-orange.level-6 .btn-default.disabled.active,
 .sec-variant-orange.level-6 .btn-default[disabled].active,
 fieldset[disabled] .sec-variant-orange.level-6 .btn-default.active {
-  background-color: #c2deff;
+  background-color: #fff2c2;
   border-color: rgba(0, 0, 0, 0);
 }
 .sec-variant-orange.level-6 .btn-default .badge {
-  color: #c2deff;
+  color: #fff2c2;
   background-color: #000000;
 }
 .sec-variant-orange.level-6 hr.style-three {
@@ -12665,7 +12665,7 @@ fieldset[disabled] .sec-variant-midblue-transparent.level-2 .btn-default.active 
   background-color: rgba(29, 69, 99, 0.8);
 }
 .sec-variant-midblue-transparent.level-3.seethru {
-  background-color: #20631d;
+  background-color: #745922;
 }
 .sec-variant-midblue-transparent.level-3.seethru a {
   color: #000000;
@@ -13048,7 +13048,7 @@ fieldset[disabled] .sec-variant-midblue-transparent.level-4 .btn-default.active 
   background-color: rgba(6, 14, 20, 0.8);
 }
 .sec-variant-midblue-transparent.level-5.seethru {
-  background-color: #071406;
+  background-color: #260c28;
 }
 .sec-variant-midblue-transparent.level-5.seethru .btn-default {
   color: #ffffff;
