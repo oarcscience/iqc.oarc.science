@@ -1,6 +1,6 @@
-title: Institute for Biblical Content
-url: https://ibc.oarc.science
-description: A Bible society adhering to Open Access values
+title: Institute for Qur’anic Content
+url: https://IQC.oarc.science
+description: A Qur’anic society adhering to Open Access values
 
 
 assets:
@@ -10,21 +10,21 @@ assets:
       buttonp2: .oarc.science
       description: Library of ancient texts, ancient Christian writers, Judeo-Christians.
       github: github.com/paracalypsis.oarc.science
-    - name: Multilingual Bible Reader
-      url:  read.ibc.oarc.science
-      buttonp1: Read · IBC
+    - name: Multilingual Qur’an Reader
+      url:  read.IQC.oarc.science
+      buttonp1: Read · IQC
       buttonp2: .oarc.science
-      description: This engine hosts several Open Access Bible translations.
-      github: github.com/oarcscience/read.ibc.oarc.science
+      description: This engine hosts several Open Access Qur’an translations.
+      github: github.com/oarcscience/read.IQC.oarc.science
     - name: Intangible Textual Heritage
       url:  ith.oarc.science
       buttonp1: Intangible
       buttonp2: Textual Heritage<br>ith.oarc.science
-      description: Intangible Textual Heritage is an Open Access archive of quintessential texts of our civilization. IBC contributes to its Christian and Judeo-Christian sections.
+      description: Intangible Textual Heritage is an Open Access archive of quintessential texts of our civilization. IQC contributes to its Christian and Judeo-Christian sections.
       github: github.com/oarcscience/ith.oarc.science
-    - name: Curated directory of Biblical Content
-      url:  ibc.oarc.science/directory
+    - name: Curated directory of Qur’anic Content
+      url:  IQC.oarc.science/directory
       buttonp1: Expert
-      buttonp2: Resources on<br>Biblical Studies
-      description: "A curated directory of expert resources on different topics of Biblical Studies: Early Judaism, Early Christianity, Textual Criticism and Linguistics, Theory and Reception."
+      buttonp2: Resources on<br>Qur’anic Studies
+      description: "A curated directory of expert resources on different topics of Qur’anic Studies: Early Judaism, Early Christianity, Textual Criticism and Linguistics, Theory and Reception."
       github: 

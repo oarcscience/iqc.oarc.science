@@ -1,3 +1,3 @@
-# Institute for Biblical Content: a Bible society adhering to Open Access ideals
+# Institute for Qur’anic Content: a Qur’anic society adhering to Open Access ideals
 
-## [ibc.oarc.science](https://ibc.oarc.science)
+## [IQC.oarc.science](https://IQC.oarc.science)
