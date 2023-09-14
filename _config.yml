@@ -1,14 +1,14 @@
-title: Institute for Quranic Content
+title: Institute for Qur’anic Content
 url: https://IQC.oarc.science
-description: A Quranic society adhering to Open Access values
+description: A Qur’anic society adhering to Open Access values
 
 
 assets:
-    - name: Multilingual Quran Reader
+    - name: Multilingual Qur’an Reader
       url:  read.iqc.oarc.science
       buttonp1: Read · iqc
       buttonp2: .oarc.science
-      description: This engine hosts several Open Access Quran translations.
+      description: This engine hosts several Open Access Qur’an translations.
       github: github.com/oarcscience/read.iqc.oarc.science
     - name: Intangible Textual Heritage
       url:  ith.oarc.science
